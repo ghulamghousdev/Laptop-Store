@@ -17,7 +17,7 @@ npm install npm@latest -g
 - node
 
 ```
-npm install npm@latest -g
+npm install node@latest -g
 ```
 
 ### Installing
