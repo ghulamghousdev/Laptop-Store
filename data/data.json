@@ -53,5 +53,16 @@
         "screen": "15-inch, Full HD",
         "price": "1499",
         "description": "While it may not have the best keyboard in the world, the Samsung Notebook 9 is still one of the best laptops you can buy in 2020. Packed with more horsepower than some MacBook Pros,but at a much lower price, Samsung has crafted a laptop that has just as much substance as it does style. Plus, on top of its killer specs, it’s lightweight and thin, making this one of the most portable 15-inch laptops you can buy today."
+    },
+    {
+        "id": "5",
+        "productName": "Microsoft Surface Pro",
+        "image": "surface-pro.jpg",
+        "cpu": "Intel Core i7, 7th generation",
+        "ram": "16GB",
+        "storage": "256 GB SSD",
+        "screen": "12-inch, Full HD",
+        "price": "1299",
+        "description": "Ultra-light and versatile. At your desk, on the couch, or in the yard, get more done your way with Surface Pro 7, featuring a laptop-class Intel® Core™ processor, all-day battery,¹ and HD cameras."
     }
 ]
