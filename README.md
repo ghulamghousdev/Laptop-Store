@@ -1,5 +1,5 @@
 # Laptop-Store
-First project using Node.js in which javascript runs outside the browser. Laptop Sotres website is implemented by creating a own server using Node.js. 
+First project using Node.js in which javascript runs outside the browser. Laptop Store website is implemented by creating a own server using Node.js. 
 
 ## Getting Started
 
